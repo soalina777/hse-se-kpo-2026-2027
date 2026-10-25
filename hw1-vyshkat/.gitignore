@@ -1,0 +1,29 @@
+# Скомпилированные файлы
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Результаты тестирования
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Каталоги сборки
+/bin/
+/build/
+/dist/
+
+# Временные файлы
+*.log
+*.tmp
+
+# Настройки редакторов
+.vscode/
+.idea/
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
